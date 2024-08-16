@@ -1,0 +1,21 @@
+[{
+    "Name": "Fortnite",
+    "Weighs": "81 GB",
+    "Genre": "strategy",
+    "Grade": "8/10",
+    "Release data": "2017"
+},
+{
+    "Name": "Minecraft",
+    "Weighs": "14 GB",
+    "Genre": "strategy",
+    "Grade": "7/10",
+    "Release data": "2007"
+},
+{
+    "Name": "Pubg",
+    "Weighs": "31 GB",
+    "Genre": "strategy",
+    "Grade": "5/10"
+    
+}]
